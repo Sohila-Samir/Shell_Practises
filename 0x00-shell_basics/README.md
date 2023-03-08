@@ -12,4 +12,7 @@
 > note that u will need to attach the `source` keyword before the file name first in order for the script to run on the current proces
 
 ## 3-listfiles
-- prints the current working directory contents in a long formats
+- prints the current working directory contents in a long format
+
+## 4-listmorefiles
+- prints the current working directory content including hiden files in a long format
