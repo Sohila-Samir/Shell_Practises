@@ -5,4 +5,5 @@
 # Repo Contents:
 
 - [0x00-shell_basics](./0x00-shell_basics)
-  - [0-current_working_directory](0x00-shell_basics/0-current_working_directory.sh)
+  - [0-current_working_directory](0x00-shell_basics/0-current_working_directory)
+  - [1-listit](0x00-shell_basics/1-listit)
