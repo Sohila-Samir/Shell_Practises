@@ -16,3 +16,10 @@
 
 ## 4-listmorefiles
 - prints the current working directory content including hiden files in a long format
+
+## 5-listfilesdigitonly
+- Display current directory contents.
+    - in a Long format
+    - with user and group IDs displayed numerically
+    - And hidden files (starting with .)
+
