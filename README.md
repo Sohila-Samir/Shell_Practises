@@ -11,3 +11,4 @@
   - [3-listfiles](0x00-shell_basics/3-listfiles)
   - [4-listmorefiles](0x00-shell_basics/4-listmorefiles)
   - [5-listfilesdigitonly](0x00-shell_basics/5-listfilesdigitonly)
+  - [6-firstdirectory](0x00-shell_basics/6-firstdirectory)
